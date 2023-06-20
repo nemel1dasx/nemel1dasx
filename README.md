@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learn HTML, CSS
+ I learn HTML, CSS
 
 
 ## 🌐 Socials:
